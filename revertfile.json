@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "name": "dennis",
     "age":46,
     "city":"terneuzen"
+=======
+    "name": "dennis"
+>>>>>>> parent of addd3c8... age
 }
