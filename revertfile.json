@@ -1,12 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "dennis",
-    "age":46,
-    "city":"terneuzen"
-<<<<<<< HEAD
-=======
-    "name": "dennis"
->>>>>>> parent of addd3c8... age
-=======
->>>>>>> 644da1c... city
+    "age" : 33
 }
