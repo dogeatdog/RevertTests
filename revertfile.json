@@ -1,11 +1,7 @@
 {
     "name": "dennis",
     "age" : 33,
-<<<<<<< HEAD
     "city" : "Terneuzen",
     "country" : "NL",
     "gender" : "male"
-=======
-    "city" : "terneuzennnnn"
->>>>>>> main
 }
